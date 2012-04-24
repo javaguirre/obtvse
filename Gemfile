@@ -47,3 +47,6 @@ group :assets do
   gem 'coffee-rails', '~> 3'
   gem 'uglifier', '~> 1'
 end
+
+#ONLY for Wordpress
+gem "mysql"
